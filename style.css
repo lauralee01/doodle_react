@@ -1,0 +1,96 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+	}
+body{
+	margin: 0;
+	padding: 0;
+
+}
+#body{
+	background-color: #630;
+	margin: 0;
+	padding: 0;
+
+}
+#main{
+	background-color: #930;
+}
+#header{
+	background-color: #0b0c0b;
+	padding: 20px;
+	text-align: center;
+	margin: 0 auto;	
+	color: #fff;
+}
+#header h1{
+	padding: 15px;
+	display: inline-block;
+	padding: 0px;
+}
+#body{
+	background-color: #fff;
+	display: inline-block;
+	padding: 20px;
+	width: 100%;
+	text-align: center;
+	border: solid 5px rgb(50,100,200);
+	border-top: solid 10px rgb(50,100,200);
+}
+#footer{
+	background-color: rgb(50,100,200);
+	padding: 20px 40px;
+}
+#doodle-body{
+	display: inline-block;
+	margin: 0 auto;
+	width: 85%;
+	text-align: center;
+}
+#doodle-list{
+	margin: 0 auto;
+	display: inline-block;
+	list-style: none;
+	text-align: center;
+	padding: 0;
+	width: 90%;
+}
+.doodle{
+	height: 100%;
+	width: 22%;
+	margin: 1.5%;
+	padding: 0px;
+	display: block;
+	float: left;
+}
+.doodle img{
+	width:100%;
+	background-color: rgba(0,0,0,0.5);
+}
+#brand{
+	display: inline-block;
+	padding: 5px;
+}
+#links{
+	display: inline-block;
+	float: right;
+	padding: 5px;
+}
+#footer span{
+	font-size: 18px;
+	color: #fff;
+}
+#more{
+		
+	display: block;
+	margin: 10px;
+	
+}
+#more a{
+	text-decoration: none;
+	color: #fff;
+	background-color: rgba(50,100,200,0.5);
+	padding: 10px 15px;
+}
